@@ -1,5 +1,6 @@
 # TheaterTicketSystem
 Basic Java Spring project
+
 Technologies:
   - Spring Boot
   - PostgreSQL
